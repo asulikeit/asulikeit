@@ -6,3 +6,4 @@
 - 💬 과거 일했던 경험: 서버 관리 (Solaris, Linux: https://cafe.naver.com/spdiary)
 - 📫 error2zero@hanmail.net
 - ⚡ 취미: 육아..:baby:
+- Wiki: 작성 중 (https://github.com/asulikeit/asulikeit/wiki)
